@@ -1,0 +1,866 @@
+provs
+All right, so we already have some people here.
+So welcome everyone.
+Thank you for coming to the space.
+There is a lot of growing interest in the linkage finance protocol, which brings many
+questions from members of the space.
+So we have here a linkage finance and team from Moosley swap for you to get a better understanding
+of the linkage roadmap and where the strategic partnerships with Moosley swap comes to play
+at.
+So we have Chris from Moosley swap and Marius is the co-founder of the linkage finance.
+And with that, I'll pass the mic down for you.
+Yeah.
+Thanks.
+Thanks for hosting it.
+So as you all know, my name is Chris.
+I'm from Moosley swap.
+And let's start by maybe giving my host a chance to quickly introduce himself.
+And then we can start talking about linkage finance and what the team is like.
+And then we will try to keep it short five to 10 minutes.
+And then we can do an aim with people from the community asking us questions if they
+want to.
+Awesome.
+Marius.
+I can't hear your, Marius.
+Yeah, we can't hear you.
+You're not even rogging, so probably the mic is not on.
+Maybe try logging in from another Twitter user.
+Okay.
+That's fun.
+Well, if that's unfortunate, have some technical difficulties, but we're going to have Marius
+up here at the talk very soon.
+Sorry, it's wrong Twitter space.
+Yeah, I'm sorry, guys.
+Maybe we'll give it one or two more minutes.
+See if Marius can, if you can hear.
+I think we've got us good in, has to become a speaker.
+Maybe quickly talk about Lucy's self governance by the way.
+For two minutes.
+Yeah, awesome.
+I'm bringing up Alexander already.
+I don't know.
+We didn't intend to have an MA right now, but yeah, go ahead.
+Alexander that stage is yours.
+You want to talk about Lucy's self governance.
+Hi, guys.
+I think you should be able to hear me now, right?
+Yeah.
+Yeah, okay.
+Perfect.
+It's working.
+I'm sorry.
+Hi, everybody.
+Great to be here with you today.
+So my name is Marius and I'm the confound of linkage finance.
+I do mainly marketing, community, partnerships and daily operations.
+I am based in Germany and I've been interested in blockchain technologies and many years.
+And in 2018, I started doing research on Cardano and yeah, I'm a community member since then.
+If it's okay for you guys, I would just tell you something about the mission and wish
+and of linkage finance.
+So I have just mentioned we are community members since years now.
+And we have always been very happy and interested when new milestones came along like the Shelley
+hard fork, the Mary hard fork, Westville.
+And as we were in general, eagerly awaiting the first development of Cardano.
+And we were always researching and interested in new native assets coming up, which was
+way easier like 18 months ago.
+But there were, because there were simply not that many native assets compared to nowadays,
+there were very few ispo's coming up, etc.
+So it was not too time consuming.
+But as the market and DeFi on Cardano in general through research got very time consuming.
+And so we saw about a way of pairing the benefits of a traditional finance investment vehicle.
+So index funds with the benefits of decentralization and trustlessness.
+And as well, we think it will be very interesting in the future as DeFi grows even bigger to
+have funds with, for example, tokenized stocks, because this means that you could have a representation
+of the, for example, the S&P 500, but in a completely decentralized and trustless manner,
+as well as stablecoin funds are interesting use case, because you can have a fund with,
+let's say, five different stablecoins.
+And this allows you to reduce risk in the case of if one of the stablecoins are debugging.
+And yeah, we are working on linkage finance since around the beginning of this year.
+And until very recently, a lot of work was going on behind the scenes and we just started
+recently to be way more outgoing and building this beautiful community.
+Yeah, sounds great.
+Maybe to add one thing.
+So everyone has a bit more of an idea of index funds.
+And then I will actually go on and talk about this music website.
+So the idea is that you can log by T of token smart contracts and you basically have one
+token that represents your share index.
+So as as my us just mentioned, if you would do a stablecoin index, let's say the index
+will hold 10 different US dollar stablecoins.
+And human basically one token that represents your share in this protocol, meaning that,
+for example, if one of the tokens would fail, you would still have the other ones in the
+index fund.
+So you've got kind of diversified your risk and so on.
+And that's kind of the entire idea behind this index fund.
+You can go into a variety of token, while only trading one.
+And at the same time, you can also do risk diversification and maybe profit if some of
+them are performing very well.
+And with that said, so what's the role of mutually swap in it?
+So I know my is so my name is Chris.
+I'm the co founder of MUSI swap and I know my is personally.
+And he's also one of the persons that basically got me got me into Cardano.
+And when he came with this idea of the next funds, I said, yeah, that's really cool.
+Let's start working on it.
+So I joined in as an advisor on the project and also some others from MUSI swap are helping.
+We are helping provide infrastructure to the linkage finance team.
+Now also the launchpad, the community and so on.
+And that's not something that has happened in the past week.
+We've announced the partnership probably in May, beginning of June.
+I know that linkage has been in the planning since the beginning of the year.
+And they kind of tried to build a community across this entire time.
+And suddenly for the last few days, it really took off.
+So from what I got is that the Twitter community or the Twitter page, it grew from like 500
+to more than 4,000 now and just a few days.
+And yeah, so my kind of role in the project of what we are mostly providing is I'm providing
+with a lot of expertise.
+I'm also helping a bit in the day the operations.
+Then we are supporting them with infrastructure and so on as we believe.
+This is a great project.
+And it also helps us to swap a lot.
+So we have a swap via a swap.
+So users also need to have something to swap.
+So having kind of more action going on, more offerings to users can also bring a lot of
+liquidity and interest into our platform.
+So yeah, that's also one of the ways how we can expand basically our offerings.
+And that's also one of the reasons why we are involved in it.
+And I think with that said, Myers can maybe talk a bit more about the team size in total.
+Yes, exactly.
+So we are six team members in total.
+We have as Chris has just already mentioned, core developers from a new Swiss swap for
+people.
+And we have other team members that are very experienced in finance and marketing and
+I am a developer.
+I actually studied political science.
+But as I've just been interested in the space, I've been in the cryptocurrency space for
+so long and I'm doing mainly, as I've already mentioned, community partnerships, daily operations
+and as well marketing.
+Cool.
+And would you mind talking a bit about the token?
+Maybe the bill that has happened, the upcoming public sale, just give a quick timeline and
+maybe summarize with the method.
+Yeah, sure.
+So we have been, as the community has certainly noticed way more outgoing.
+We have been on this project for many months.
+And in the last few, yeah, actually last week, we started to be way more outgoing and creating
+the community.
+And we were always thinking about when should we do the token launch?
+And we have done a survey and yes, it turned out that the people want the public sale to
+be very soon, which is actually very important because we have seen a lot of fake tokens going
+around.
+So we want to reduce this risk.
+Maybe also because a lot of people ask, why is this like launch so rushed, right?
+So from what I understand, what the plan was, was that you had basically, you normally,
+what you do is you launch a private sale, you take some investors on board that give you
+more headroom to continue developing the product and then you go basically to a public launch.
+Now the point is this kind of exploded completely.
+Before as I said, the page was like 500 people and suddenly everyone was interested in linkage
+finance.
+And with that, unfortunately also a lot of game came in.
+So I told my, so if you want to launch the music, rather do it quickly, give a clear timeline
+to people.
+Because for example, on Sunday we had like, I saw different life, I talking trading on
+DEXIS.
+I saw one token on min swap doing more than 60,000 a day because there was some confusion
+because basically there was a small ongoing private sale that was planned and a bigger
+public sale in the future.
+But I think there needs to be a timeline to simply protect people from scam and so on.
+So that's also a bit from the music side that we said, let's rather do the launch now.
+There seems to be interest rather than kind of, you know, getting risk that there is more
+uncertainty people getting scammed.
+We had other fake phytosides trying to promote a public sale that didn't have them and so
+on.
+So yeah, that was kind of the main reason why this entire thing got a burst rush.
+And I think with that said, let's maybe start taking in some questions.
+I think I've already seen like at least.
+Awesome.
+Yeah.
+And I wrote down a pair of requests like, so we're going to start with a Husky fan.
+Let me just add you in on the call.
+All right.
+Yo, Husky.
+What's up?
+Hey, what's up?
+I'm just joining in this Twitter.
+I'm just joining in this Twitter space where I guess it's X space at this point.
+Just wanted to say hi to everybody.
+And yeah, I really love in the Cardano community.
+And yeah, keep it up.
+Keep up all this development and things like that.
+I do Cardano based content on my YouTube, but I really enjoy hearing from the experts
+and people like usually swap and seeing what they're doing.
+I'm shot to that central.
+Hey, so yeah, I just wanted to say hey.
+Awesome.
+Thank you very much, Husky.
+Next one, we will have L coming up.
+So let me bring you up now.
+Whose faster X or Twitter?
+All right, we got L on the call.
+The Obama, thanks for letting me up and shout out to the news, Liti.
+Love the decks, but I am just a little bit concerned.
+Just curious, is there going to be a new token every time you guys do another venture?
+And Alexander, will you be doing disclosures of the promotions next time you do that?
+So as I said, linkage has been in the plans for a month.
+So there is definitely, as I said, I'm also more of an advisor role.
+The team is bigger than that.
+And I can also guarantee you that at least from the top of the site, there's no other
+token splants.
+I hope that helps you kind of clarify that.
+As I said, this has been planned for it's been going on for more than one and seven
+months already.
+And it kind of just got a bit strong because of our option flow launch.
+I think it's more of a coincidence rather than the debt is happening.
+I hope that's kind of a satisfying answer.
+Well, and it's completely fine.
+You guys need to make money to make sure these platforms are sustainable.
+It's just a concern for the future.
+We're just kind of trying to figure out how many tokens we can expect in relation to you
+guys.
+I think, yeah, yeah, sure.
+I get that.
+As I said, there is no other sales plans.
+Also, we don't have any other strong partnerships other than linkage right now because I think
+it will be a great addition to the decks.
+Other than that, we have fully committed to milk.
+I mean, we just had a, we just launched governance, right?
+So we're going strong.
+We will have the token migration happening this month.
+Most likely if the proposal passes, we will have the treasury introduced.
+So there's great things that have been introduced.
+Oh, I got a question, I had a question for you.
+Can you please repeat the question?
+Yeah, just curious with the OPT situation, it seemed like you disclosed that you were
+paid like a week or two kind of after promoting them for a week with the, you guys kind of
+working closely with linkage.
+Are you disclosing that you were paid before that kind of promotion situation this time?
+Okay.
+Let me make you clear.
+The OP, what I disclosed was I was hired for community building by the mostly swapped
+team.
+Okay.
+Two weeks prior to the post I made, right?
+Now OPT on options flow is a mostly swapped team project, right?
+So I'm already working for the mostly swap.
+They have a new project is the same, it's the same on work.
+Now linkage finance is a team that mostly swap is supported.
+I have no payments from linkage finance.
+Okay.
+I have compensation from justly swap, but I have no payments for linkage finance.
+Now you got to remember regardless of the fact that I talk about, um, mostly swap, which
+I have done like for over a year before the mostly swap even higher.
+Regardless of the fact that I speak of mostly swap is not going to start me from creating
+content on any project, I think makes sense on my platform.
+You understand?
+So the reason why you seem to talk about linkage finance is because I believe in the project.
+I believe is a great idea.
+It's not because I have any compensation from linkage finance.
+And maybe also in general saying we don't compensate for anyone giving financial advice,
+right?
+It's going to be to be neutral.
+We never post any content giving any kind of financial advice, any endorsements on our
+page.
+That's also very important to me personally.
+So yeah, our plan is to just build like a great product and the community around it.
+And that's all we do.
+And what, what Alexander helps us with this, uh, what Alexander helps us with this basically
+during community management, he joins on the calls does the management helps us to figure
+out what kind of interaction gets more people into the clients on the message or page.
+I think that's also important to mention.
+And that's great.
+It's really doing a very good job.
+It's just that it seems like the community was kind of concerned with the way that the
+OPT promotion went out and then this whisper.
+So I'd rather just tell you and ask if this and then whisper it in the back room.
+Yeah, I'll understand.
+But you know, like you see the whispers that you speak of, this is something I expect to
+happen.
+You can't get away from it.
+You know, which are experienced in the market, regardless of what happens.
+The first thing is that you cannot please everybody.
+That's not going to happen.
+Okay.
+So a bunch of people going to be happy and then you're going to get the minority that
+has the whispers is always going to come to pass.
+You cannot get away from it.
+But we just fought ahead and keep building anyway.
+Yeah, it's all I wanted to know.
+Thank you very much.
+And I look forward to seeing you more link in 2000 future.
+Yeah.
+Thank you.
+Thank you.
+Thank you all for fantastic comments and for coming up to speak.
+Next we have Cardano markets.
+Hey, good morning everybody.
+Thank you for taking this opportunity.
+Hopefully you guys can hear me right, correct?
+I can hear you.
+At least.
+I can hear you too.
+Okay, fantastic.
+I joined the space about five minutes late and I just wanted to clarify.
+I kind of caught the tail end of the news list.
+What team comments just to clarify.
+Do you guys own any part of linkage finance or is it all just a team of linkage, finance
+folks and some member of your team actually turning in as part of.
+So I joined the link.
+So some team members are basically joining, for example, me are, but mrs.
+Rob is not owning any part of the link.
+Yes.
+Okay.
+Thank you.
+My second question is in relation to the token distribution.
+And I really applaud you guys, the way you guys handle the app distribution because it
+was fair in the sense that, you know, flat percentage, everybody gets something within
+the timeframe that you guys defined.
+Now as I understand it, the linkage finance token distribution or the sale is an two hour
+opening.
+Now if I'm a whale and I know that the way this has been approached before is a flat
+rate and this is comparing now to the, the opt sale 30 minutes versus two hours.
+I can see that percentage that flat percentage dropping to 25.
+And if I'm a whale and I know that I'm betting and I might end up getting 25%.
+I might just times for my, my buy in if I can afford it.
+So truly, even though it is fair, it is a system that is still open to gaming, right?
+Now if fairness really is what you guys are trying to touch, my recommendation would be
+to maybe draw a minimum sale line in a sense that any, if let's say you have, you allocate
+60% of the tokens that are for sale to everybody that wants to buy something up to a certain
+amount.
+So if you are buying in $1000 or less, you will get, let's say all your token allocated
+from the 60%.
+And then the other 40% you can put a flat rate on and I'm just trying to think off the
+top of my head to see if there is a better way of approaching the token sale.
+But you guys, I guess my question is, have you guys set on the flat rate distribution,
+the way up has approached it or is there a way there to be more fair in the distribution
+so that the little guy can still have something?
+So I think the second part, my use can answer this if we would consider doing a token minimum.
+But for the two hour window, why is it not half an hour anymore?
+I think this is simply coming from our experience with the up launch because you had so many
+requests coming in at exactly when it launched.
+I think it was, sorry if I get the time zone wrong, I think it was 5pm my time, so 3pm UTC.
+And the problem was it took people more than half an hour to get their transaction on chain.
+If for example, if you use a, if you bought it like Nami bought it because the mempul was
+very full.
+And a lot of users, they were simply nervous.
+They were saying, yeah, is my transaction still counted and they started, you know, they started
+panic and instead of like having this window of scammers, we just said, let's make a bigger
+time window so that everyone can relax has time and has time to get this transaction
+on chain.
+And that's all, that's the entire idea behind it.
+With the minimum amount, I think that's something my use can answer.
+Yeah, so we don't plan on putting a minimum amount of it.
+And I got that, we got a lot of comments that two hours would be too long.
+But what we really did was taking a look at the up launch and trying to, yeah, do the
+best for the community.
+And yes, actually, because two hours as Chris has just mentioned, people were worrying if
+their transactions are getting through.
+So we want to be as fair as possible and don't want to cause confusion.
+The problem is with this.
+So we also consider doing this thing where you say you can get up to a certain amount
+of tokens guaranteed provided by basically, so what you suggested for the up launch.
+But you know, the prime is who stops me of creating more wallets.
+So if I have bots, I can just create 20 wallets and basically do contributions with 20 wallets.
+And then I have the same effect.
+And I even, instead of just getting poor other because I'm buying a lot, I actually have
+guarantees how much I will get.
+So it might even be less fair.
+I think you're making a fair point that there's no more argument there.
+Folks will find ways to game the system either way.
+But I was thinking maybe a way to make it harder to do.
+Anyway, I think that's it for my time.
+I really appreciate your feedback on this.
+Yeah, thanks.
+So maybe just to say, I think if you do it harder, the only thing that happens is that
+people that have more coding skills, they will kind of, and have bots set up, they will
+be the ones basically profiting the most from these kind of extra rules.
+Everything that makes it more complicated.
+I think that's one of the main reasons we decided against it also during the up launch.
+I think that's fair.
+One thing before this, that this goes up, I just want to remind everyone that I'm running
+the request to speak.
+I wrote down your turn based on when you requested it.
+So, speech, your stage is yours.
+All right.
+Hey guys, thank you for the opportunity to have a discussion.
+So yeah, I have been a very, very early adopter of, mostly, right, right, from Milcoma del
+Tempt and being a, you know, admiror of the state.
+And that definitely puts me, you know, to opt and also towards linkage as well, right?
+So I have a couple of questions.
+The first one is, as, you know, they will conclude, which they have, you know, the team
+has clarified.
+So initially the plan was to have a private sale, primarily to support the development
+and then after a few months down the line, maybe two or three months, we'll have a public
+sale, right?
+So now that the public sale is like days away, what is the need of private sale?
+I mean, I'm great to understand the why of the private sale from the team's first cut
+to.
+Okay.
+So basically, as I've just already mentioned, we were, we are way more outgoing now and
+we didn't really anticipate such a hype and the public sale, the private sale was over
+subscribed pretty quickly and so we saw it's a good way to get actually people in initially
+and it's around 200 people in the private sale and we wanted to do a fair distribution
+because we were starting very small and then it turned out to, yeah, to a very big community
+very fast and so the problem was that so many people were coming in and that's why we basically
+are criticized for doing the private sale now.
+So that's why we did the public sale right now as well, especially because I don't know
+if you were already joined when we mentioned that but many fake tokens were created and
+we really don't want to put the community at risk.
+So that's why we do the public sale now, especially because we have grown so quickly.
+Yeah, I completely got the why of public sale.
+So probably if I understand right, so there has already been some private sale that has
+been committed and you have been ordering that.
+If that's the only reason why you are going with, you know, the 15% instead of going all
+the time to public sale in the next three days.
+Let me jump in, my use can answer as well.
+I think that's what I wrote also from the post that has been communicated.
+So yes, so I think it's mostly because they were already interested in commitments.
+I think I got the terminal that's fair enough if the commitment is already made and you
+have wanted to honor it.
+So coming to the second question, just want to get some clarity on, you know, the team
+like you told, you know, there is a use with that team is primarily the core development
+team, right?
+So I want to understand, of course they are short because they are having three projects,
+right?
+What, you know, do you have a plan to, you know, build your own standalone core team
+or if I have to rephrase what is going to be a use of funds of this nine million year
+that you're going to, you know, raise income in this?
+Well we already have started with the development and as Chris has already mentioned, which
+is what developers are joining in.
+And we are actually already in the face of programming.
+So we have outside deaths for front end.
+The smart contracts are already designed and now we will do the audits.
+We will look for design and of course, throwing the community.
+So it's not like we are just getting started.
+There has been a lot of work already behind the scenes and just now it gets seen by the
+community because we are starting to be more outgoing.
+Okay, so just to rephrase, if like this shared resource of music that is going to be the
+code all around, or you're going to build your standalone core team.
+So we see what is helping us with the development, but we've already are at a point where we,
+yeah, we have the roadmap on the white paper.
+So our goals for Q3 is for your example, the private test net and we will get that out
+and standalone.
+Go on that.
+Cool.
+The final question probably with very short one.
+So see, I just want to again see that too, you know, just to test with the two heart
+window, right?
+With the public sale.
+So let's say within two hearts or let's say within 40 minutes, one hour, we are going
+to go to our website, hypothetically, it's a two year three X4 X.
+Do we going to draw a line somewhere like that is going to go or subscribe multiple
+layers or you're going to just open for complete to heart beat whatever exists.
+So as I said, it's hard to go with probably less than an hour simply because it can take
+time for transactions to appear on chain.
+And then you will have people saying I used another wallet.
+So mine took like one hour to appear.
+Then the question is which ones do you count in and which ones you don't.
+And I think if you if you across the if you put the line somewhere, which is below an hour,
+it becomes complicated.
+Maybe two hours is too long.
+Yeah, I think that's something that's available.
+But we kind of suggested from a tech perspective that two hours would probably be the best
+time.
+All right.
+Then so fine.
+I think I have generally asked questions which in the forums, I think I will open it
+for other folks so that you know, they will have that opportunity.
+Thank you guys for looking forward for it.
+Yeah, thank you very much, Sathish.
+Next we have a conundrum.
+Hi guys.
+So the only thing I really wanted to ask is like what's actually going on with the current
+private sale like it's still actually happening or not because I've just been very confused
+the last few days with the forum.
+Like I know a lot of people sent it like yesterday and I'm just not sure what the
+deadlines are about the private sale anymore.
+So I'm just looking for some clarification.
+Hi, so the private sale is still going on and we will get back to all the people very
+soon.
+We have gotten an overwhelming amount of direct messages and emails and we are just counting
+right now the allocations, the contributions and then we'll come back to the people very,
+very soon.
+Got it.
+All right, awesome.
+Next we have a cold forum.
+Hi guys.
+Can you hear me okay?
+Yeah, can you hear me perfectly?
+Okay, great.
+So my question is about, well first with the private sale, I think there was some concern
+there.
+You know, a lot of us have been following you, I suppose that to get into that private
+sale was something that happened earlier before our time but not to dwell on that anyway.
+But my question is about these bots that we've all heard of and experienced.
+You know, is that a thing anymore?
+I mean, with the off token, it didn't seem to happen as far as I'm concerned.
+I bought, it worked out for me, I'm concerned, you know, you're putting this thing on it
+in just a couple of days.
+What are my worries if I believe in the ETF design?
+I'm in.
+But what are my worries that, I'm sorry, with the private sale and these bots, we're
+just going to get dumped on.
+You know what I mean?
+And I don't mean to flood because I believe in you guys.
+Shout out to Alexander and the mutually swapped team.
+So I will take the second part and then myos can talk about the allocation of the private
+sales.
+So for bots, it's unavoidable, right?
+Because on the blockchain, they basically send a transaction as everybody else.
+But what you have in a lot of spaces or in a lot of sales, I mean, is that you do first
+come first.
+So if you simply say the people that are first on chain, they'll win and everybody else gets
+cut off.
+And that's where the bots come in and they play in handy because if you use your private
+node, you can get the transaction faster onto the chain and then you might win and be like,
+let's say earlier, then the people submitting to an army audit.
+But now this isn't the case if you do this allocation window, everyone has the time to
+put in his regress and then we just do the fair distribution, right?
+Because then it doesn't matter whether I'm a bot or not using my private node because
+all the transaction should be on chain from people participating.
+And that's the main reason why we use this approach instead.
+So yeah, and for the first part with the private sale, I'm sure that myos can answer
+that.
+Yes, exactly.
+So our private sale, it's not really a big private sale because only 15% of the supply
+is allocated for the private sale.
+70% of the total supply is allocated for sale.
+So 55% is public.
+And when it comes to you being worried about, you know, people dumping, we have a wrestling
+schedule in place so you can get the tokens at launch, but a lot of people are choosing
+a wrestling schedule.
+This is a three month's wrestling schedule where you have 25% at launch and then 25%
+every other month.
+So three months.
+Okay, and I get that.
+And I appreciate your answer there.
+What were the requirements?
+Was my question, you know, or did we just miss it?
+It just happened a long time ago before we were around.
+I've been in telegram for a few days now and it just seemed like a lot of people were
+surprised that the private sales going on right now.
+When it comes to the private sale, a lot of people were just messaging us privately.
+So when they reached out to us, we gave them the details.
+So that's how it basically worked.
+And it's not like in the last few days, we have this plan for quite some time.
+Okay, I appreciate it.
+I appreciate it.
+Thank you.
+And it was just very overwhelming, I have to say, because we have allocated 15% of the
+supply to private sale and we were just very interested in how this pans out.
+And yeah, it was we were completely overwhelmed.
+And the team, it was very much, this is why we still haven't reached out to everybody,
+but we will reach out to them very, very soon.
+So everybody who is listening and haven't received an email back from us who was filling
+out the form, this will happen very soon.
+Awesome.
+Thank you, Mary.
+Next up, we have crypto intelligence.
+Yeah, crypto intelligence, you have your hand up.
+Hello.
+So in terms of the private sale, and we're going to talk about the public sale, and because
+I've got two things that I'm a few of us are a bit concerned about.
+It's about the narrative calling off the whole thing to you sale.
+I feel like you, a lot of people feel like you guys are rushing in terms of on the back
+and you guys haven't given people enough notice in terms of that, what you guys would
+feel like you guys need to do at least after decency, the turn on and said, and advertise
+it and said, you know what, there's like what other projects on the card or ecosystem has
+gone, which is their turn on.
+I said, okay, there's two weeks, they've given people two weeks or say, for example, three
+weeks at least, you know, people are scrambling and making a disruption in the whole ecosystem
+where you have people selling off on other projects.
+And the liquidity is going left, right and center.
+But in terms of this as well, like in terms also about the docs and say, oh, we should
+a lot of people have been saying you guys have been even decided to docs properly.
+So you guys can answer those questions.
+So we completely understand that for a lot of people, it seems kind of rushed, but it
+was just that I mean, there was going on a lot behind the scenes.
+We were really focused on the project since like six or seven months.
+And as I've just already mentioned, there were scam tokens coming around.
+And the reason as well is that the community was just growing so fast and development was
+already going on.
+So that's why we already got all the things out and are at the sale right now.
+In terms of a few of our people, because we have been in the telegram and just to say
+that, okay, the sale is not going to be in the next five days, not even to say, okay,
+just sales might be a two weeks.
+You know, there's there's ways of professionally doing it, not somewhat not people tweeting
+on Twitter and getting the whole community, you know, going crazy.
+Yeah.
+I guess maybe also that we quickly jump in, I guess you could argue what the right time
+frame is, but I think it's anyway to lay it now to change it, right?
+I think this is probably I think something maybe if I think this is also like the ecosystem
+is still young and you can learn and other projects they can learn what's kind of what's
+the best timeline for these things, right?
+Thank you, crypto intelligence.
+Next up, we'll have Manny.
+Hello, everyone.
+Manny, be investing.
+Congratulations on launching governance and to go to the Miseswap and the Miseswap team
+in the community.
+I had some questions about the protocol itself, but as I sat and kind of listened to previous
+questions, this kind of went more into, you know, the realm of the token and liquidity
+and fairness.
+And I typically and kind of non emotional.
+I don't really care about that kind of stuff.
+You know, I don't care if a person made money being an insider or not.
+I think that doesn't really bother me, but I kind of started to, you know, the answer
+you gave on the private sale, how the private sale came about.
+It kind of bugged me.
+So I guess I wanted to ask a follow up question about that if it was cool.
+Yeah, sure.
+Go ahead.
+So you stated that the way it came about was just people just messaging you and I don't
+know, it just rubbed me the wrong way.
+So like people, random people or are these like big, you know, VC people, like people
+that you guys know personally or are we talking just random people from the community just
+happen to message you and ask about this private sale.
+So even though our community has grown how it is right now in the last few days, we have
+always had followers.
+This was a number of around, let's say, 800 people.
+So it were, say they were just regular people on Twitter or Antelichram and they messaged
+us.
+And you said that the private sale, it's ongoing now where it hasn't used to be positive or
+what's the deal with that.
+So we just had private investors and they were just requesting information and basically
+we accepted anyone to this.
+So they messaged us and then we sent them the form the private sale is still going on
+after KYC.
+They had to do KYC and now we are just calculating everything together.
+Thanks.
+I mean, that just concerns me.
+I don't know.
+So maybe also let me quickly jump in.
+I think how it was meant in the beginning is right.
+It was meant to some private investors to give it more headroom and then adjust escalated
+in the sense that more and more people reached out saying they want to participate and then
+the question is, when is it fair and isn't it fair, right?
+And I think what they did and I personally think that's a good thing is to say let's
+take in more and then let's split it across everyone participating.
+So a lot of people they made requests, they want to participate and they will probably
+receive something like 20% of the tokens that they actually want to get allocated as part
+of the private sale.
+And I think this is a way to do it.
+I agree.
+There might be other ways.
+And I guess how it happened is that it just grew so quickly overnight, I think there isn't
+much to do and that's also why the public sale has been moved to time and has been moved
+to avoid all these scams.
+You see you have a project, you're trying to build a community and suddenly on one day
+it explodes.
+I guess it's something that's challenging for everyone in the ecosystem.
+Okay.
+I mean, I guess if what's done is that's fine, whatever.
+Okay, if you haven't done it yet, I would probably reconsider maybe do a lottery system
+instead because it just seems to just kind of just like them usually swap lottery to
+like a small group of people.
+But not to have a response to.
+Oh, I'm sorry.
+Manny, did you finish?
+Yeah, I'm done.
+I'm done.
+Sorry.
+Okay.
+Well, I just want to answer because I have Manny said something about, you know, if the
+private sale was for VCs, right?
+And my response that I was just some earlier people from the community before the community
+grew as large as they got.
+Personally, I'll prefer, you know, regular people from the community over VCs.
+I just wanted to point that out.
+I mean, I think most people in the community would prefer regular people in the community
+over venture capitalists because we know how a venture capitalist is that, right?
+Yeah.
+I mean, I understand that, you know, products need money to build.
+So I'm not anti-BC.
+Like if you need VC, go for it.
+You know, do your thing.
+It's just like sprinkling in the regular people like myself that it's just like it's
+kind of like that's it.
+I don't know if you're going to do that, do a lottery system for the public, you know,
+dedicate a portion of the private sale to the public and do a lottery system with your
+greater community.
+I think would be the best way to go about it if you haven't done it yet.
+But if you have, you know, whatever, if that's in the past, let's just move forward.
+All right.
+Thank you, Manny.
+I hope that answers your question.
+So maybe full transparency, I was, we were planning on roughly 10 minutes introduction
+and 20 minutes AMA and now it went up to 35 minutes already.
+I was actually just chatting in the background with CryptoBumber and we said, let's do five
+more questions and decide for over.
+But of course, I see there's many more people requesting.
+So I think he wrote down an order.
+Let's take two more and then let's maybe call it off for today and else do another one.
+I hope that's that's fine with everybody.
+All right.
+I'll bring up Daddy on the call and then Fortune and we'll be up for now.
+Yeah, Daddy, the stage is yours.
+Hey, thank you for having me up.
+I appreciate it.
+I just actually wanted to piggyback and if this was answered previously, I apologize.
+But was the private sale advertised in the sense of putting out the word, hey, if you
+DM us and KYC, you'll be able to be eligible for the private sale?
+No, we had actually a lot of people just reaching out to us even before we released
+tokenomics and everything.
+And they were always asking about the private sale since we have very few community members.
+And so they reached out.
+It wasn't advertised.
+Okay, understood.
+I guess my only feedback there would be, I think, it probably, you know, not everybody
+wants to KYC.
+And again, as Manny said, I completely respect the idea of wanting to raise capital.
+That's what companies do.
+But a little bit more clarity around the private sale might have alleviated some of those concerns.
+So I appreciate the answer and thanks for having me up.
+Well, thank you very much for your question.
+I understand it, but it was just overwhelming so many people were there.
+So but yes, I understand your concerns.
+Thanks for your question.
+Yeah, thank you.
+And last speaker will be Fortin.
+Thank you for having me guys.
+First question, I don't know if it's been answered, but it's regarding the private sale
+has those tokens that are going to be allocated to whoever's buying?
+Is it an univested schedule?
+That's my first question and then second question is just moving forward because I know what
+linkage is trying to do or DeFi in general.
+Potentially speaking, these are protocols that are going to be holding billions and billions
+worth of capital.
+And I know some of the people that were reached out to you guys through DMs, I know some of
+them.
+I'm just from an outside looking in, it doesn't look professional to decide to make a decision
+this big on just because of what people are DMing you, especially when some of these people
+who I personally know are doing it for a specific reason, the same way with op that just went
+out not too long ago.
+So just want to say I'm not and I'm not going to fade.
+What's it called?
+Generational wealth or anything?
+I'm just saying, respectively speaking, this is a protocol with others that have the ability
+potentially to hold billions.
+I don't want the history to be.
+Oh, yeah, we just did a private sale because, you know, some people who are prominent and
+could have carted out community went ahead and just asked for a private sale, right?
+And then on top of that, there's not a working product.
+I'm starting to notice a theme with DeFi projects where, hey, I'm going to launch this token
+and I don't have a viable working product, whether it's in beta or whether it's supposed
+to be testable, right?
+And that's just a trend that's I'm seeing it happen on Cardano mainly because we are
+all thirsty.
+We are all hungry for working protocols.
+We want to be ETH.
+We want to be the number one DeFi protocol, all that.
+And we have the ability to do that.
+But I just see that projects are taking advantage of that type of ethos.
+My two cents.
+I will quickly jump in, talk about opt and then Myers can talk about all the concerns
+around linkage.
+So opt via kind of close to test that the smart contracts are already working.
+We already, before we even went out to the community, we already shared transactions with
+how you can interact with the smart companies and so on.
+Most of the interfaces are already kind of done.
+It's currently coded up and we are very close to kind of going with an MVP to testnet.
+So it's not like we rushed it for like saying month in planning on not kind of going in.
+As I said, the smart contracts are done.
+The audit is actually already scheduled and all these things.
+So at least fortune flow, I can say that I think the criticism that there won't be any
+protocol for it in like half a year is simply not true.
+That's like always how we try to do is first we kind of built in the background once we
+know we're close to having something we'll go to the community and make them aware of
+it.
+And now maybe I can pass it on to Myers about the private sale.
+But I think probably the answer will be the same again.
+The plan was to kind of get some head started with a small number of community members and
+suddenly everyone knew about the project.
+So it's hard to manage I guess.
+Hi fortune.
+And yes, what Chris just said is it's true.
+I mean, the smart contracts are already developed.
+So we don't talk about years until the product is out.
+We are aiming to release the private test net on in Q3 and the public test net in Q3 to
+Q4.
+So it won't be a very long time regarding your Western question.
+There were actually two options.
+You could do a Westing and no Westing the Westing option was 25% at launch and then 25% each
+month three months, three months Westing period.
+Thank you guys.
+Good luck to you all.
+Thank you for them.
+Thank you fortune.
+Yep.
+Thank you very much.
+So linkage finance public sale will be up on third of August.
+The list of tokens and projects launching on Cardano is growing rapidly and an index fund
+would be a great tool to arrange our portfolios and prepare for the next bull market.
+Chris, for a mostly swap governance is going live with delegated voting.
+Can you end the space just with a couple of closing points on the matter?
+Yeah, 100%.
+So we basically put out the delegated voting yesterday.
+It works in such a way that you can basically bundle your votes from milk and delegate them
+to someone else.
+So how it works is that you actually mint an NFT using smart contracts and this kind of
+holds very delegated you vote to.
+And now by doing this, we can either have community representatives you could delegate
+your vote to or you can just delegate it to another wallet which may be balanced to your
+power.
+And with that out, we ask users to kind of mint these delegation NFTs and then tomorrow
+we will do a snapshot vote doing the fun round of governance testing and then hopefully
+on Thursday we can kind of launch our first official vote and then we have a lot of proposals
+already in the forum.
+Token migration, introduction of the musi swap treasury and some others.
+So it's going to be exciting times in the next few weeks.
+I have something saying closing.
+I have something saying wasn't.
+I just want to remind the community that once upon a time, right, the narrative around
+Cardano and building on Cardano was that it is too hard to build anything on Cardano.
+We have projects that raised multiple million dollars.
+I'm not going to name any project names, but they raised a lot of money.
+And at the end, the data said that discontinuing the production or it's too hard to build and
+they're building elsewhere.
+Right?
+That was the narrative.
+Now we have formidable teams that are ready to build and they're delivering code.
+We cannot in the same breath that was said, it's too hard to build on Cardano, condemn
+people for trying to put out, you know, protocols that actually work, they're ready to deliver
+code.
+And I do that is like taking emotions out of it.
+You have to peak what you really want.
+We know Cardano has been developing meticulously and we're coming from the back, right?
+We can't sit down here and not have no protocols built on top of Cardano because, you know,
+people want to be in their feelings about how the protocols launching or not.
+I granted a lot of you have great points with the, with the, with the, you know, suggestions
+you brought up and the issues that you saw.
+I cannot say that everything was delivered perfectly, nothing is perfect.
+I'm sure maybe some mistakes were made, but in the grand scheme of things, at least we
+know this is delivered by a team that we know for sure has a track record of delivered,
+you know, so that's just what went in the stage.
+Just remind everybody that this is all to build up Cardano and get us ready to compete
+with the rest of the blockchains all day.
+Thank you.
+Yep.
+Thank you, Alexander.
+So yep.
+Thanks, Alexander.
+You want to finish anything, Marius?
+No, no, I just wanted to say thank you to Alexander.
+Yeah.
+Yeah.
+So we're going to have another space to talk about the Moosie swap governance for sure,
+probably this week.
+And not along from now, we're going to have another space for sure with the linkage about
+their upcoming test net.
+So yeah, the coming weeks and months are very exciting.
+Thank you everybody for coming to this space.
+Thank you also for joining.
+Sorry to everybody that we kind of cut off with the requests.
+But as I said, we tried to keep it under.
+We tried, James, for 30 minutes, Marius 53 already.
+So I hope everybody can understand.
+Yep.
+And we'll definitely have more of these.
+So definitely more questions to come.
+And you can always reach on the telegram for linkage finance as well as moosie swap.
+So yep.
+Thank you again for coming and have a great day, everybody.
+Yeah.
+Have a great day.
+Bye.
+Thanks for having us.
+Thanks, guys.
+It was great talking to you.
+Thank you so much for moderating, crypto bamba.
